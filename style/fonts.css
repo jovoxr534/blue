@@ -1,0 +1,12 @@
+@font-face{
+    src:url(../fonts/Rubik-Bold.ttf);
+    font-family: 'r700';
+}
+@font-face{
+    src:url(../fonts/Rubik-Light.ttf);
+    font-family: 'r300';
+}
+@font-face{
+    src:url(../fonts/Rubik-Regular.ttf);
+    font-family: 'r400';
+}
